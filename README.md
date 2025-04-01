@@ -1,4 +1,4 @@
-# 🌐 Dynamischer Reverse Proxy für Node.js (macOS-kompatibel)
+# 🌐 Dynamischer Reverse Proxy für Node.js
 
 Ein einfacher, flexibler Reverse Proxy basierend auf **Express** und **http-proxy-middleware**.
 
